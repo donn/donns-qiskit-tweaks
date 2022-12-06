@@ -1,0 +1,10 @@
+build/
+!volare/build
+pdk/
+__pycache__
+venv/
+logs/
+dist/
+*.egg-info/
+.vscode/
+.idea/
